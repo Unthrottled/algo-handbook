@@ -3,4 +3,10 @@
 //
 
 #include "HelloWorld.h"
+#include <stdlib.h>
+
+void printThing() {
+
+    printf("yeet!");
+}
 
