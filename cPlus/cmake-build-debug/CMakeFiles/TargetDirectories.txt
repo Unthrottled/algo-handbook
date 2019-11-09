@@ -1,0 +1,3 @@
+/home/alex/workspace/algo-handbook/cPlus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alex/workspace/algo-handbook/cPlus/cmake-build-debug/CMakeFiles/cPlus.dir
+/home/alex/workspace/algo-handbook/cPlus/cmake-build-debug/CMakeFiles/edit_cache.dir
